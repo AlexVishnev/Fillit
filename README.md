@@ -1,2 +1,2 @@
 # Fillit
-Tetris. Used backtracking algor
+Tetris. Used backtracking algo
